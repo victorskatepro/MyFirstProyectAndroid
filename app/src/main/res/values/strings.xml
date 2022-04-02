@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MyFirstProyectAndroid</string>
+    <string name="enter_your_first_name">Enter Your First Name</string>
 </resources>

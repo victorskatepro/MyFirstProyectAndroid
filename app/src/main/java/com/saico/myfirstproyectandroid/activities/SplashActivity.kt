@@ -1,4 +1,4 @@
-package com.saico.myfirstproyectandroid
+package com.saico.myfirstproyectandroid.activities
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
@@ -6,6 +6,7 @@ import android.os.Bundle
 import android.os.Handler
 import android.os.Looper
 import android.provider.AlarmClock
+import com.saico.myfirstproyectandroid.R
 
 class SplashActivity : AppCompatActivity() {
 

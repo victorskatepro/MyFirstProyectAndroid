@@ -13,4 +13,8 @@
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
     </style>
+
+    <style name="Theme.AppCompat.Empty.Button" >
+        <item name="background">@drawable/img_splash_rock</item>
+    </style>
 </resources>
